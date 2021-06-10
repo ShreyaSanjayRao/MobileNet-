@@ -1,0 +1,59 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-color: #1dd3f3;
+}
+.Mobile{
+    background-color: blueviolet;
+    color:salmon ;
+}
+.Mobile img{
+    width: 100px;
+}
+.Phone,.Tab{
+    background-color: salmon;
+    padding: 10px;
+    margin-top: 15px;
+    border:3px solid white;
+}
+.Phone label,.Tab label{
+    background-color: rgb(241, 36, 132);
+    width: 310px;
+    padding: 20px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 20px whitesmoke;
+}
+#camera,#snap{
+    border: 2px solid rgb(18, 84, 206);
+width: 310px;
+height: 310px;
+box-shadow: 5px 5px 20px goldenrod;
+}
+.Phone button,.Tab button{
+    width:310px ;
+    font-size: 30px;
+    box-shadow: 5px 5px 20px whitesmoke;
+    border: 1px solid darkred;
+}
+.footer_div {
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color:#e94b73 ;
+    border-radius:20px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px rgb(51, 11, 231) ;
+}
+.footer_div img{
+    width: 70px;
+    
+}
+.copyright_footer{
+    position: fixed;
+    bottom:0 ;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(245, 22, 245);
+    line-height: 3;
+    color: rgb(139, 0, 46);
+    font-size:30px;
+}
